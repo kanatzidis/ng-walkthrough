@@ -1,7 +1,7 @@
 {
-  "name": "ng-walkthrough",
-  "version": "0.2.2",
-  "homepage": "https://github.com/souly1/ng-walkthrough",
+  "name": "ng-walkthrough-custom",
+  "version": "1.2.2",
+  "homepage": "https://github.com/kanatzidis/ng-walkthrough",
   "authors": [
     "Ophir Stern <souly01@gmail.com>"
   ],
