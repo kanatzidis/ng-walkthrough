@@ -59,7 +59,8 @@
 }
 
 .walkthrough-element.walkthrough-icon {
-    height: 200px;
+    height: 100px;
+    width: auto;
 }
 
 .walkthrough-element.walkthrough-arrow{
