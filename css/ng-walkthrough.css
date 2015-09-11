@@ -18,9 +18,9 @@
 
 .walkthrough-hole {
     position: absolute;
-    -moz-box-shadow: 0 0 0 1997px rgba(0, 0, 0, .8);
-    -webkit-box-shadow: 0 0 0 1997px rgba(0, 0, 0, .8);
-    box-shadow: 0 0 0 1997px rgba(0, 0, 0, .8);
+    -moz-box-shadow: 0 0 0 200vh rgba(0, 0, 0, .8);
+    -webkit-box-shadow: 0 0 0 200vh rgba(0, 0, 0, .8);
+    box-shadow: 0 0 0 200vh rgba(0, 0, 0, .8);
     -webkit-appearance: none;
 }
 
